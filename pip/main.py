@@ -2,9 +2,9 @@ from telegram import Bot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from random import randint as rd
 
-#token = '5695592994:AAHMT7oC6SSPq8glVCILaZwxaXGo5xufQHA'
-bot = Bot(token='5695592994:AAHMT7oC6SSPq8glVCILaZwxaXGo5xufQHA')
-updater = Updater(token='5695592994:AAHMT7oC6SSPq8glVCILaZwxaXGo5xufQHA')
+#token = '569'
+bot = Bot(token='56')
+updater = Updater(token='56')
 dispatcher = updater.dispatcher
 
 
